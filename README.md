@@ -274,3 +274,276 @@ Gracias a su enfoque flexible y su compatibilidad con múltiples plataformas, se
 Su combinación de herramientas intuitivas, paneles visuales y funciones avanzadas lo convierten en una opción ideal para equipos de TI, seguridad, gerencia y colaboradores técnicos.
 
 Para más información, soporte o asesoría personalizada, consulta cualquiera de los canales oficiales de NetGuard Solutions.
+
+# 📘 NetGuard Pro – User Manual
+
+---
+
+# 📑 Table of Contents
+
+1. [📖 Introduction](#intro-en)
+2. [👥 Target Audience](#audience-en)
+3. [🧩 System Requirements](#requirements-en)
+4. [⚡ Getting Started with NetGuard Pro](#gettingstarted-en)
+5. [📊 Dashboard Overview](#dashboard-en)
+6. [🔌 Available Integrations](#integrations-en)
+7. [🧩 Key Features](#features-en)
+8. [🤝 How to Contribute](#contribute-en)
+9. [🛟 Support & Contact](#support-en)
+10. [⭐ Real-World Use Case](#usecase-en)
+11. [📘 Conclusion](#conclusion-en)
+
+---
+
+<h2 id="intro-en">📖 1. Introduction</h2>
+
+**NetGuard Pro** is an advanced platform for network monitoring, security, and optimization.
+It allows organizations to:
+
+- Visualize real-time network activity
+- Detect potential threats
+- Manage connected devices
+- Configure adaptive security rules
+- Receive instant alerts
+- Generate reports for IT and executives
+
+The interface is designed to be intuitive, enabling both technical and non-technical users to efficiently navigate the platform.
+
+---
+
+<h2 id="audience-en">👥 2. Target Audience</h2>
+
+This manual is designed for:
+
+### 🟦 New Users
+People who are using the platform for the first time and need simple, accessible guidance.
+
+### 🟩 Administrators, IT Engineers, and Developers
+Technical professionals responsible for managing, analyzing, or maintaining the network with NetGuard Pro.
+
+### 🟨 Contributors
+Team members participating in development, maintenance, or process documentation.
+
+---
+
+<h2 id="requirements-en">🧩 3. System Requirements</h2>
+
+Based on the official company brochure:
+
+| Resource / Component | Minimum Requirements | Recommended Requirements |
+|----------------------|----------------------|--------------------------|
+| **CPU** | 2 cores | 4 cores |
+| **RAM** | 4 GB | 8 GB |
+| **Storage** | 5 GB free | 20 GB+ |
+| **Operating Systems** | Windows, Linux, macOS | Windows, Linux, macOS |
+| **Connectivity** | Internet connection | Internal network + Internet |
+| **Permissions** | Standard user | Administrator privileges |
+
+---
+
+<h2 id="gettingstarted-en">⚡ 4. Getting Started with NetGuard Pro</h2>
+
+The onboarding steps follow the official “Getting Started” guidelines from the brochure.
+
+---
+
+### ⭐ Step 1: Download & Install
+
+- Visit the official website: **www.netguardsolutions.com**
+- Navigate to **Products → NetGuard Pro**
+- Select your operating system
+- Download and run the installer
+- Follow the on-screen setup wizard
+
+> *Default optimal settings are applied automatically to ensure immediate functionality.*
+
+---
+
+### ⭐ Step 2: Initial Configuration
+
+After installation:
+
+- Open NetGuard Pro
+- Follow the initial setup wizard
+- Configure your network manually **or** import `.json` or `.yaml` configuration files
+- Create a secure administrator account
+
+---
+
+### ⭐ Step 3: License Activation
+
+To unlock full functionality:
+
+- Enter your license key
+- Or activate the **30-day free trial**
+- Volume licenses require specifying the number of authorized servers/devices
+
+---
+
+### ⭐ Step 4: Network Integration
+
+NetGuard Pro automatically analyzes your network:
+
+- Scans the environment
+- Detects connected devices
+- Suggests preset configurations
+- Allows manual adjustments
+
+---
+
+### ⭐ Step 5: Dashboard Overview
+
+Once configuration is complete, the main dashboard appears and displays:
+
+- Real-time traffic
+- Alert categories by priority
+- Device status
+- Performance metrics
+- Customizable widgets
+- Multiple dashboard profiles for different roles
+
+---
+
+<h2 id="dashboard-en">📊 5. Dashboard Overview</h2>
+
+Key components of the NetGuard Pro dashboard:
+
+- **Network Traffic Monitor** – Real-time activity visualization
+- **Smart Alerts** – Notifications triggered by anomalies or threats
+- **Device Status Panel** – Overview of connected systems
+- **Performance Metrics** – Bandwidth, user activity, peak utilization
+- **Custom Widgets** – Tailored dashboards for TI, security, or management
+- **Role-Based Views** – Executive summaries, technical views, and more
+
+This allows organizations to instantly interpret network activity and proactively respond to issues.
+
+---
+
+<h2 id="integrations-en">🔌 6. Available Integrations</h2>
+
+According to the brochure, NetGuard Pro supports integration with:
+
+- **AWS**
+- **Microsoft Azure**
+- **Google Cloud**
+- **Slack**
+- **PagerDuty**
+- **Splunk**
+
+These integrations enable:
+
+- Centralized alerting
+- Monitoring hybrid and multicloud environments
+- Automated workflows
+- Real-time notifications
+- Enhanced operational insights
+
+---
+
+<h2 id="features-en">🧩 7. Key Features</h2>
+
+Based strictly on the official company document:
+
+### 🔐 Automatic Optimization
+- Intelligent performance tuning
+- Adaptive rules based on network behavior
+- Continuous monitoring
+
+### 🛡️ Advanced Security
+- Threat detection
+- Behavioral alerts
+- Device monitoring
+- Vulnerability insights
+
+### 📈 Enterprise Scalability
+- Suitable for small and large infrastructures
+- Supports multiple devices and network sizes
+- Cloud integration
+
+### 📊 Intuitive Dashboard
+- Customizable widgets
+- Real-time data
+- Executive-friendly reporting
+
+### 🧭 Flexible Configuration
+- Import `.json` and `.yaml`
+- Manual adjustments
+- Automatic updates
+
+---
+
+<h2 id="contribute-en">🤝 8. How to Contribute</h2>
+
+If you are part of the technical or development team, follow these guidelines:
+
+### 📝 1. Fork the Repository
+Work on your own copy before making changes.
+
+### 🌱 2. Create a New Branch
+Use descriptive names such as:
+
+feature/dashboard-upgrade
+fix/alert-priority-bug
+
+### 📘 3. Document Your Changes
+Provide clear comments and rationale.
+
+### 🧪 4. Test Before Submitting
+- Verify that new changes do not affect existing features
+- Perform manual tests when necessary
+
+### 🚀 5. Submit a Pull Request
+Include:
+- Description of changes
+- Screenshots or evidence
+- Additional implementation notes
+
+---
+
+<h2 id="support-en">🛟 9. Support & Contact</h2>
+
+Official NetGuard Solutions support channels:
+
+- 🌐 **Website:** www.netguardsolutions.com
+- 📧 **Email:** info@netguardsolutions.com
+- ☎️ **Phone:** +1-800-555-1234
+- 💼 **LinkedIn:** NetGuard Solutions
+
+Support is available for:
+
+- Setup guidance
+- Licensing assistance
+- Network integration help
+- Troubleshooting issues
+- Performance optimization questions
+
+---
+
+<h2 id="usecase-en">⭐ 10. Real-World Use Case</h2>
+
+Although the brochure does not include specific examples, the following scenario illustrates how NetGuard Pro can impact an enterprise network:
+
+### 🏢 Scenario
+A digital services company with **900+ employees** experienced bandwidth congestion and unauthorized device access.
+
+### 🔍 Actions Taken with NetGuard Pro
+- Enabled real-time monitoring
+- Activated smart threat alerts
+- Integrated Slack notifications
+- Customized dashboards for IT and security teams
+- Applied automated optimization rules
+
+### 📈 Results
+- 🔻 **40% reduction** in critical incidents
+- ⏱️ **60% faster** threat response
+- 🔐 Complete removal of unauthorized endpoints
+- 📊 Improved bandwidth planning and resource allocation
+
+---
+
+<h2 id="conclusion-en">📘 11. Conclusion</h2>
+
+NetGuard Pro is an enterprise-level solution designed to provide visibility, security, and centralized control across diverse network environments.
+Its flexibility, intuitive interface, and robust integration capabilities make it ideal for both small teams and large organizations.
+
+For further assistance or personalized support, please refer to the official contact channels provided above.
