@@ -89,6 +89,5 @@ Una empresa tecnológica con 12 servidores utilizó NetGuard Pro para identifica
 
 ## 📞 14. Contacto
 - Sitio web: netguardsolutions.com  
-- Correo: info@netguardsolutions.com  
-- Teléfono: +1-800-555-1234  
+- Correo: info@netguar
 
