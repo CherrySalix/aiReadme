@@ -1,9 +1,5 @@
 # 📘 NetGuard Pro – Manual de Usuario / User Manual
 
-![Version](https://img.shields.io/badge/Version-1.0-blue)
-![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
-![Platforms](https://img.shields.io/badge/Platforms-Windows%20%7C%20Linux%20%7C%20macOS-blue)
-![Security](https://img.shields.io/badge/Security-TLS%201.3-orange)
 
 ---
 
